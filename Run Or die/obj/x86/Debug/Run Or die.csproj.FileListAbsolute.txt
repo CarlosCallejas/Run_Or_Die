@@ -1,0 +1,32 @@
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\shot.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\CarSpriteSheet.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Run Or die.exe
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Run Or die.pdb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\nesto\source\repos\Run Or die\Run Or die\obj\x86\Debug\Run Or die.csprojResolveAssemblyReference.cache
+C:\Users\nesto\source\repos\Run Or die\Run Or die\obj\x86\Debug\Run Or die.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\Run Or die\Run Or die\obj\x86\Debug\Run Or die.exe
+C:\Users\nesto\source\repos\Run Or die\Run Or die\obj\x86\Debug\Run Or die.pdb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\CarIcon.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\charIcon.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\charSprite_v003.xnb
+C:\Users\nesto\source\repos\Run Or die\Run Or die\bin\Windows\x86\Debug\Content\zombie_v003.xnb

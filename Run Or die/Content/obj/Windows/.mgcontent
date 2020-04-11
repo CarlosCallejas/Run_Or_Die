@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/escuela/tec/segundo semestre/POO/proyectos/Run Or die_004/Run Or die/Run Or die/Content/Cancion1.wav</File>
+    <File>E:/escuela/tec/segundo semestre/POO/proyectos/Run Or die_004/Run Or die/Run Or die/Content/CancionMenu.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
